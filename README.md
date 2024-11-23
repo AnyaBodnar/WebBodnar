@@ -66,4 +66,4 @@ After starting the server, you can:
 This project is part of an academic course and is available for educational purposes.
 
 ## Author
-Ihor Bychkovskyi
+Anna Bodnar

@@ -13,7 +13,7 @@ Hardware Control is a web application designed to manage and monitor hardware co
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/IhorBychkovskyi/HardwareControl.git
+git clone https://github.com/AnyaBodnar/WebBodnar.git
 ```
 
 ### Setup Virtual Environment
